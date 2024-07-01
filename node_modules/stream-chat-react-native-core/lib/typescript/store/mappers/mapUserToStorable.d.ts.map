@@ -1,0 +1,1 @@
+{"version":3,"file":"mapUserToStorable.d.ts","sourceRoot":"","sources":["../../../../src/store/mappers/mapUserToStorable.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAEhD,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,UAAU,CAAC;AAEzC,eAAO,MAAM,iBAAiB,SAAU,YAAY,KAAG,SAAS,OAAO,CAatE,CAAC"}

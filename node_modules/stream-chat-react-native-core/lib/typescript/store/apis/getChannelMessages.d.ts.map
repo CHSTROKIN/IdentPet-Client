@@ -1,0 +1,1 @@
+{"version":3,"file":"getChannelMessages.d.ts","sourceRoot":"","sources":["../../../../src/store/apis/getChannelMessages.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,aAAa,CAAC;AAMnD,OAAO,KAAK,EAAE,yBAAyB,EAAE,MAAM,mBAAmB,CAAC;AAMnE,eAAO,MAAM,kBAAkB;gBAMjB,MAAM,EAAE;mBACL,MAAM;2DAsCtB,CAAC"}

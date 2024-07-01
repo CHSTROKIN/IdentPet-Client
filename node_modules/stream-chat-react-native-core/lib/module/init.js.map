@@ -1,0 +1,1 @@
+{"version":3,"names":["_reactNativeUrlPolyfill","require","_default","setupURLPolyfill","exports"],"sourceRoot":"../../src","sources":["init.ts"],"mappings":";;;;AAAA,IAAAA,uBAAA,GAAAC,OAAA;AAA6D,IAAAC,QAAA,GAE9C,SAAAA,SAAA,EAAM;EACnB,IAAAC,wCAAgB,EAAC,CAAC;AACpB,CAAC;AAAAC,OAAA,cAAAF,QAAA","ignoreList":[]}

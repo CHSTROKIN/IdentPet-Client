@@ -1,0 +1,1 @@
+{"version":3,"file":"mapStorableToTask.d.ts","sourceRoot":"","sources":["../../../../src/store/mappers/mapStorableToTask.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,kBAAkB,EAAE,MAAM,UAAU,CAAC;AAEhE,eAAO,MAAM,iBAAiB,QAAS,mBAAmB,cAAc,CAAC,KAAG,WAU3E,CAAC"}

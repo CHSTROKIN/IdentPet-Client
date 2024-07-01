@@ -1,0 +1,1 @@
+{"version":3,"file":"appendOrderByClause.d.ts","sourceRoot":"","sources":["../../../../src/store/sqlite-utils/appendOrderByClause.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AACxC,OAAO,KAAK,EAAE,eAAe,EAAE,gBAAgB,EAAE,MAAM,UAAU,CAAC;AAElE,eAAO,MAAM,mBAAmB,wCACjB,MAAM,yEAElB,eAiBF,CAAC"}

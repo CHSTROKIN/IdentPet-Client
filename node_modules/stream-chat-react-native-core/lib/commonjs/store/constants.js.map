@@ -1,0 +1,1 @@
+{"version":3,"names":["DB_NAME","exports","DB_LOCATION","DB_STATUS_ERROR"],"sourceRoot":"../../../src","sources":["store/constants.ts"],"mappings":";;;;AAAO,IAAMA,OAAO,GAAG,0BAA0B;AAACC,OAAA,CAAAD,OAAA,GAAAA,OAAA;AAC3C,IAAME,WAAW,GAAG,WAAW;AAACD,OAAA,CAAAC,WAAA,GAAAA,WAAA;AAChC,IAAMC,eAAe,GAAG,CAAC;AAACF,OAAA,CAAAE,eAAA,GAAAA,eAAA","ignoreList":[]}

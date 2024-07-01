@@ -1,0 +1,1 @@
+{"version":3,"file":"WritingDirectionAwareText.d.ts","sourceRoot":"","sources":["../../../../src/components/RTLComponents/WritingDirectionAwareText.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAC1B,OAAO,EAAiC,SAAS,EAAE,MAAM,cAAc,CAAC;AAMxE,MAAM,MAAM,8BAA8B,GAAG,SAAS,CAAC;AAEvD,eAAO,MAAM,yBAAyB,UAAW,8BAA8B,sBAO9E,CAAC"}

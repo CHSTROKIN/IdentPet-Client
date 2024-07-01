@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageError.d.ts","sourceRoot":"","sources":["../../../../../src/components/Message/MessageSimple/MessageError.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAC1B,OAAO,EAAE,SAAS,EAAoB,SAAS,EAAE,MAAM,cAAc,CAAC;AAKtE,MAAM,MAAM,iBAAiB,GAAG;IAC9B,KAAK,CAAC,EAAE,SAAS,CAAC,SAAS,CAAC,CAAC;CAC9B,CAAC;AAEF,eAAO,MAAM,YAAY,cAAe,iBAAiB,sBAiBxD,CAAC"}

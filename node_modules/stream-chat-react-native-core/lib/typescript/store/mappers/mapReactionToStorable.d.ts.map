@@ -1,0 +1,1 @@
+{"version":3,"file":"mapReactionToStorable.d.ts","sourceRoot":"","sources":["../../../../src/store/mappers/mapReactionToStorable.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,aAAa,CAAC;AAIpD,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,UAAU,CAAC;AAEzC,eAAO,MAAM,qBAAqB,aAAc,gBAAgB,KAAG,SAAS,WAAW,CAYtF,CAAC"}

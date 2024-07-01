@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamChatRN.d.ts","sourceRoot":"","sources":["../../../src/utils/StreamChatRN.ts"],"names":[],"mappings":"AAAA,KAAK,YAAY,GAAG;IAClB,iBAAiB,EAAE,MAAM,EAAE,CAAC;CAC7B,CAAC;AAKF;;;;;GAKG;AACH,qBAAa,YAAY;IACvB;;OAEG;IACH,MAAM,CAAC,MAAM,EAAE,YAAY,CAAgC;IAC3D;;;;OAIG;IACH,MAAM,CAAC,SAAS,CAAC,MAAM,EAAE,OAAO,CAAC,YAAY,CAAC;CAG/C"}

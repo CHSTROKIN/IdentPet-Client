@@ -1,0 +1,4 @@
+import type { ChannelsContextValue } from '../../../contexts/channelsContext/ChannelsContext';
+import type { DefaultStreamChatGenerics } from '../../../types/types';
+export declare const useCreateChannelsContext: <StreamChatGenerics extends DefaultStreamChatGenerics = DefaultStreamChatGenerics>({ additionalFlatListProps, channels, EmptyStateIndicator, error, FooterLoadingIndicator, forceUpdate, hasNextPage, HeaderErrorIndicator, HeaderNetworkDownIndicator, ListHeaderComponent, loadingChannels, LoadingErrorIndicator, LoadingIndicator, loadingNextPage, loadMoreThreshold, loadNextPage, maxUnreadCount, numberOfSkeletons, onSelect, Preview, PreviewAvatar, PreviewMessage, PreviewMutedStatus, PreviewStatus, PreviewTitle, PreviewUnreadCount, refreshing, refreshList, reloadList, setFlatListRef, Skeleton, }: ChannelsContextValue<StreamChatGenerics>) => ChannelsContextValue<StreamChatGenerics>;
+//# sourceMappingURL=useCreateChannelsContext.d.ts.map

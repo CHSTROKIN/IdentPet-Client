@@ -1,0 +1,1 @@
+{"version":3,"file":"getReads.d.ts","sourceRoot":"","sources":["../../../../src/store/apis/getReads.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,aAAa,CAAC;AAIhD,OAAO,KAAK,EAAE,yBAAyB,EAAE,MAAM,mBAAmB,CAAC;AAInE,eAAO,MAAM,QAAQ;gBAKP,MAAM,EAAE;wDAcrB,CAAC"}

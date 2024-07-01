@@ -1,0 +1,1 @@
+{"version":3,"names":["isTestEnvironment","process","env","NODE_ENV","exports"],"sourceRoot":"../../../../src","sources":["contexts/utils/isTestEnvironment.ts"],"mappings":";;;;AAAO,IAAMA,iBAAiB,GAAG,SAApBA,iBAAiBA,CAAA;EAAA,OAASC,OAAO,CAACC,GAAG,CAACC,QAAQ,KAAK,MAAM;AAAA;AAACC,OAAA,CAAAJ,iBAAA,GAAAA,iBAAA","ignoreList":[]}

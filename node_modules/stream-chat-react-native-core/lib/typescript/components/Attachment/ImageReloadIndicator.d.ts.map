@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageReloadIndicator.d.ts","sourceRoot":"","sources":["../../../../src/components/Attachment/ImageReloadIndicator.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAC1B,OAAO,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAOzC,eAAO,MAAM,oBAAoB;mBAIhB,MAAM,IAAI;WAClB,MAAM,cAAc,CAAC,gBAAgB,CAAC,CAAC,OAAO,CAAC;uBAavD,CAAC"}

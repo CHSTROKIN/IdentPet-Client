@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TypingIndicator should match typing indicator snapshot 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 24,
+        "justifyContent": "flex-start",
+      },
+      {
+        "backgroundColor": "#FCFCFCE6",
+      },
+      {},
+    ]
+  }
+  testID="typing-indicator"
+>
+  <View
+    style={
+      [
+        {
+          "flexDirection": "row",
+        },
+        {},
+        {
+          "marginLeft": 8,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "backgroundColor": "#000000",
+            "borderRadius": 2,
+            "height": 4,
+            "width": 4,
+          },
+          {
+            "marginRight": 2,
+          },
+          {},
+          {
+            "opacity": -0.3333333333333333,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        [
+          {
+            "backgroundColor": "#000000",
+            "borderRadius": 2,
+            "height": 4,
+            "width": 4,
+          },
+          {
+            "marginHorizontal": 2,
+          },
+          {},
+          {
+            "opacity": 0.3333333333333333,
+          },
+        ]
+      }
+    />
+    <View
+      style={
+        [
+          {
+            "backgroundColor": "#000000",
+            "borderRadius": 2,
+            "height": 4,
+            "width": 4,
+          },
+          {
+            "marginLeft": 2,
+          },
+          {},
+          {
+            "opacity": 1,
+          },
+        ]
+      }
+    />
+  </View>
+  <Text
+    style={
+      [
+        {
+          "marginLeft": 8,
+        },
+        {
+          "color": "#7A7A7A",
+        },
+        {
+          "fontSize": 14,
+        },
+      ]
+    }
+  >
+    Arthur and 1 more are typing
+  </Text>
+</View>
+`;

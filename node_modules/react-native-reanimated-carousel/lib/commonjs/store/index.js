@@ -1,0 +1,2 @@
+var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});exports.CTX=void 0;var _react=_interopRequireDefault(require("react"));var CTX=_react.default.createContext({});exports.CTX=CTX;
+//# sourceMappingURL=index.js.map

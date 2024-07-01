@@ -1,0 +1,1 @@
+{"version":3,"file":"getChannels.d.ts","sourceRoot":"","sources":["../../../../src/store/apis/getChannels.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,aAAa,CAAC;AAOtD,OAAO,KAAK,EAAE,yBAAyB,EAAE,MAAM,mBAAmB,CAAC;AAInE;;;;;;;;GAQG;AACH,eAAO,MAAM,WAAW;gBAMV,MAAM,EAAE;mBACL,MAAM;gEAoBtB,CAAC"}

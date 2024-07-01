@@ -1,0 +1,43 @@
+kessler,stuff,@expo/ngrok,perpetual,material,BSD-2-Clause,git+https://github.com/expo/ngrok.git,4.1.3,4.1.3,^4.1.3,bubenshchykov
+kessler,stuff,@expo/vector-icons,perpetual,material,MIT,git+https://github.com/expo/vector-icons.git,14.0.2,14.0.2,^14.0.2,Brent Vatne
+kessler,stuff,@google-cloud/firestore,perpetual,material,Apache-2.0,git+https://github.com/googleapis/nodejs-firestore.git,7.8.0,7.8.0,^7.8.0,Google Inc.
+kessler,stuff,@react-native-async-storage/async-storage,perpetual,material,MIT,git+https://github.com/react-native-async-storage/async-storage.git,1.23.1,1.23.1,^1.23.1,Krzysztof Borowy <hello@krizzu.dev>
+kessler,stuff,@react-native-picker/picker,perpetual,material,MIT,git+https://github.com/react-native-picker/picker.git,2.7.5,2.7.5,2.7.5,
+kessler,stuff,@react-navigation/native,perpetual,material,MIT,git+https://github.com/react-navigation/react-navigation.git,6.1.17,6.1.17,^6.1.17,n/a
+kessler,stuff,@types/uuid,perpetual,material,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped.git,9.0.8,9.0.8,^9.0.8,n/a
+kessler,stuff,date-fns,perpetual,material,MIT,git+https://github.com/date-fns/date-fns.git,3.6.0,3.6.0,^3.0.0,n/a
+kessler,stuff,expo,perpetual,material,MIT,git+https://github.com/expo/expo.git,51.0.14,51.0.13,~51.0.13,Expo
+kessler,stuff,expo-blur,perpetual,material,MIT,git+https://github.com/expo/expo.git,13.0.2,13.0.2,^13.0.2,650 Industries, Inc.
+kessler,stuff,expo-camera,perpetual,material,MIT,git+https://github.com/expo/expo.git,15.0.11,15.0.10,~15.0.9,650 Industries, Inc.
+kessler,stuff,expo-constants,perpetual,material,MIT,git+https://github.com/expo/expo.git,16.0.2,16.0.2,~16.0.2,650 Industries, Inc.
+kessler,stuff,expo-device,perpetual,material,MIT,git+https://github.com/expo/expo.git,6.0.2,6.0.2,~6.0.2,650 Industries, Inc.
+kessler,stuff,expo-file-system,perpetual,material,MIT,git+https://github.com/expo/expo.git,17.0.1,17.0.1,~17.0.1,650 Industries, Inc.
+kessler,stuff,expo-font,perpetual,material,MIT,git+https://github.com/expo/expo.git,12.0.7,12.0.7,~12.0.6,650 Industries, Inc.
+kessler,stuff,expo-image-picker,perpetual,material,MIT,git+https://github.com/expo/expo.git,15.0.5,15.0.5,~15.0.5,650 Industries, Inc.
+kessler,stuff,expo-linear-gradient,perpetual,material,MIT,git+https://github.com/expo/expo.git,13.0.2,13.0.2,~13.0.2,650 Industries, Inc.
+kessler,stuff,expo-linking,perpetual,material,MIT,git+https://github.com/expo/expo.git,6.3.1,6.3.1,~6.3.1,650 Industries, Inc.
+kessler,stuff,expo-location,perpetual,material,MIT,git+https://github.com/expo/expo.git,17.0.1,17.0.1,~17.0.1,650 Industries, Inc.
+kessler,stuff,expo-notifications,perpetual,material,MIT,git+https://github.com/expo/expo.git,0.28.9,0.28.9,~0.28.9,650 Industries, Inc.
+kessler,stuff,expo-router,perpetual,material,MIT,git+https://github.com/expo/expo.git,3.5.16,3.5.16,~3.5.16,650 Industries, Inc.
+kessler,stuff,expo-status-bar,perpetual,material,MIT,git+https://github.com/expo/expo.git,1.12.1,1.12.1,~1.12.1,650 Industries, Inc.
+kessler,stuff,expo-web-browser,perpetual,material,MIT,git+https://github.com/expo/expo.git,13.0.3,13.0.3,~13.0.3,650 Industries, Inc.
+kessler,stuff,react,perpetual,material,MIT,git+https://github.com/facebook/react.git,18.2.0,18.2.0,18.2.0,n/a
+kessler,stuff,react-hook-form,perpetual,material,MIT,git+https://github.com/react-hook-form/react-hook-form.git,7.52.0,7.51.5,^7.51.5,<bluebill1049@hotmail.com>
+kessler,stuff,react-native,perpetual,material,MIT,git+https://github.com/facebook/react-native.git,0.74.2,0.74.2,0.74.2,n/a
+kessler,stuff,react-native-elements,perpetual,material,MIT,git+https://github.com/react-native-elements/react-native-elements.git,3.4.3,3.4.3,^3.4.3,Nader Dabit & Monte Thakkar
+kessler,stuff,react-native-gesture-handler,perpetual,material,MIT,git+https://github.com/software-mansion/react-native-gesture-handler.git,2.16.2,2.16.2,~2.16.1,Krzysztof Magiera krzys.magiera@gmail.com
+kessler,stuff,react-native-get-random-values,perpetual,material,MIT,git+https://github.com/LinusU/react-native-get-random-values.git,1.11.0,1.11.0,^1.11.0,n/a
+kessler,stuff,react-native-maps,perpetual,material,MIT,git+https://github.com/react-native-maps/react-native-maps.git,1.14.0,1.14.0,1.14.0,Leland Richardson <leland.m.richardson@gmail.com>
+kessler,stuff,react-native-reanimated,perpetual,material,MIT,git+https://github.com/software-mansion/react-native-reanimated.git,3.10.1,3.10.1,~3.10.1,Krzysztof Magiera krzys.magiera@gmail.com
+kessler,stuff,react-native-reanimated-carousel,perpetual,material,MIT,git+https://github.com/dohooo/react-native-reanimated-carousel.git,3.5.1,3.5.1,^3.5.1,Doho <zhaodonghao586@outlook.com> (https://github.com/dohooo)
+kessler,stuff,react-native-safe-area-context,perpetual,material,MIT,git+https://github.com/th3rdwave/react-native-safe-area-context.git,4.10.1,4.10.1,4.10.1,Janic Duplessis <janicduplessis@gmail.com>
+kessler,stuff,react-native-screens,perpetual,material,MIT,git+https://github.com/software-mansion/react-native-screens.git,3.31.1,3.31.1,3.31.1,Krzysztof Magiera krzys.magiera@gmail.com
+kessler,stuff,react-native-web,perpetual,material,MIT,git://github.com/necolas/react-native-web.git,0.19.12,0.19.12,^0.19.12,Nicolas Gallagher
+kessler,stuff,stream-chat-expo,perpetual,material,SEE LICENSE IN LICENSE,https://registry.npmjs.org/stream-chat-expo/-/stream-chat-expo-5.32.1.tgz,5.32.1,5.31.1,^5.31.1,Stream.io Inc
+kessler,stuff,uuid,perpetual,material,MIT,git+https://github.com/uuidjs/uuid.git,9.0.1,9.0.1,^9.0.1,n/a
+kessler,stuff,@babel/core,perpetual,material,MIT,https://github.com/babel/babel.git,7.24.7,7.24.6,^7.24.6,The Babel Team (https://babel.dev/team)
+kessler,stuff,@types/react,perpetual,material,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped.git,18.2.79,18.2.79,~18.2.45,n/a
+kessler,stuff,@types/react-test-renderer,perpetual,material,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped.git,18.3.0,18.3.0,^18.3.0,n/a
+kessler,stuff,jest,perpetual,material,MIT,git+https://github.com/jestjs/jest.git,29.7.0,29.7.0,^29.7.0,n/a
+kessler,stuff,jest-expo,perpetual,material,MIT,git://github.com/expo/expo.git,51.0.2,51.0.2,~51.0.2,n/a
+kessler,stuff,react-test-renderer,perpetual,material,MIT,git+https://github.com/facebook/react.git,18.2.0,18.2.0,18.2.0,n/a

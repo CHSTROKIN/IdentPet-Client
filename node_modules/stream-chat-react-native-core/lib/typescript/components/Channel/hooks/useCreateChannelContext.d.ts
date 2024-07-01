@@ -1,0 +1,4 @@
+import type { ChannelContextValue } from '../../../contexts/channelContext/ChannelContext';
+import type { DefaultStreamChatGenerics } from '../../../types/types';
+export declare const useCreateChannelContext: <StreamChatGenerics extends DefaultStreamChatGenerics = DefaultStreamChatGenerics>({ channel, disabled, EmptyStateIndicator, enableMessageGroupingByUser, enforceUniqueReaction, error, giphyEnabled, hideDateSeparators, hideStickyDateHeader, isAdmin, isChannelActive, isModerator, isOwner, lastRead, loadChannelAroundMessage, loadChannelAtMessage, loading, LoadingIndicator, markRead, maxTimeBetweenGroupedMessages, members, NetworkDownIndicator, read, reloadChannel, scrollToFirstUnreadThreshold, setLastRead, setTargetedMessage, StickyHeader, targetedMessage, threadList, uploadAbortControllerRef, watcherCount, watchers, }: ChannelContextValue<StreamChatGenerics>) => ChannelContextValue<StreamChatGenerics>;
+//# sourceMappingURL=useCreateChannelContext.d.ts.map

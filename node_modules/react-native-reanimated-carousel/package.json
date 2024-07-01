@@ -1,0 +1,167 @@
+{
+    "name": "react-native-reanimated-carousel",
+    "version": "3.5.1",
+    "description": "Simple carousel component.fully implemented using Reanimated 2.Infinitely scrolling, very smooth.",
+    "main": "lib/commonjs/index",
+    "react-native": "src/index.tsx",
+    "types": "lib/typescript/index.d.ts",
+    "source": "src/index",
+    "files": [
+        "lib",
+        "src"
+    ],
+    "scripts": {
+        "gif": "node scripts/makegif.js ./scripts/gif-works-directory",
+        "test": "jest run src/**/*",
+        "test:dev": "jest dev src/**/*",
+        "typescript": "tsc --noEmit",
+        "lint": "eslint 'src/**/*.{js,ts,tsx}'",
+        "lint:fix": "eslint 'src/**/*.{js,ts,tsx}' --fix",
+        "dev": "watch 'yarn prepare' ./src",
+        "prepare": "bob build",
+        "release": "yarn prepare && dotenv release-it --no-git.requireUpstream",
+        "preRelease": "yarn prepare && dotenv release-it --no-git.requireUpstream --preRelease=beta",
+        "ios": "yarn --cwd exampleExpo ios",
+        "ios:pretty": "yarn --cwd exampleExpo ios:pretty",
+        "web": "yarn --cwd exampleExpo web",
+        "web:pretty": "yarn --cwd exampleExpo web:pretty",
+        "android": "yarn --cwd exampleExpo android",
+        "android:pretty": "yarn --cwd exampleExpo android:pretty",
+        "pods": "cd exampleExpo && pod-install --quiet",
+        "bootstrap": "yarn && yarn pods",
+        "deploy": "cd exampleExpo && yarn deploy",
+        "publish": "yarn run prepare && changeset publish",
+        "version": "changeset version"
+    },
+    "keywords": [
+        "react-native",
+        "ios",
+        "android"
+    ],
+    "repository": "https://github.com/dohooo/react-native-reanimated-carousel",
+    "author": "Doho <zhaodonghao586@outlook.com> (https://github.com/dohooo)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dohooo/react-native-reanimated-carousel/issues"
+    },
+    "homepage": "https://github.com/dohooo/react-native-reanimated-carousel#readme",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    },
+    "devDependencies": {
+        "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+        "@changesets/changelog-git": "^0.1.14",
+        "@changesets/cli": "^2.26.0",
+        "@commitlint/config-conventional": "^11.0.0",
+        "@dohooo/eslint-config": "^0.0.7",
+        "@react-native-community/eslint-config": "^2.0.0",
+        "@release-it/conventional-changelog": "^2.0.0",
+        "@types/jest": "^29.2.5",
+        "@types/react": "^18.2.15",
+        "@types/react-native": "^0.66.16",
+        "@types/react-native-snap-carousel": "^3.8.5",
+        "babel-plugin-inline-dotenv": "^1.6.0",
+        "babel-plugin-module-resolver": "^4.1.0",
+        "commitlint": "^11.0.0",
+        "cz-conventional-changelog": "^3.3.0",
+        "dotenv-cli": "^5.1.0",
+        "eslint": "^8.26.0",
+        "eslint-config-prettier": "^7.0.0",
+        "eslint-plugin-prettier": "^3.1.3",
+        "gifify": "^2.4.3",
+        "husky": "^4.2.5",
+        "jest": "^29.3.1",
+        "metro-react-native-babel-preset": "^0.77.0",
+        "pod-install": "^0.1.0",
+        "prettier": "^2.0.5",
+        "react": "18.2.0",
+        "react-native": "0.72.3",
+        "react-native-builder-bob": "^0.18.1",
+        "react-native-gesture-handler": "~2.12.0",
+        "react-native-reanimated": "~3.3.0",
+        "release-it": "^14.2.2",
+        "sponsorkit": "^0.1.3",
+        "typescript": "^4.0.8",
+        "watch": "^1.0.2"
+    },
+    "peerDependencies": {
+        "react": ">=16.8.0",
+        "react-native": ">=0.6.0",
+        "react-native-gesture-handler": ">=2.0.0",
+        "react-native-reanimated": ">=3.0.0"
+    },
+    "jest": {
+        "preset": "react-native",
+        "modulePathIgnorePatterns": [
+            "<rootDir>/exampleExpo/node_modules",
+            "<rootDir>/exampleBare/node_modules",
+            "<rootDir>/lib/"
+        ]
+    },
+    "husky": {
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+            "pre-commit": "yarn test && yarn lint && yarn typescript"
+        }
+    },
+    "commitlint": {
+        "extends": [
+            "@commitlint/config-conventional"
+        ]
+    },
+    "release-it": {
+        "git": {
+            "commitMessage": "chore: release ${version}",
+            "tagName": "v${version}"
+        },
+        "npm": {
+            "publish": true
+        },
+        "github": {
+            "release": true
+        },
+        "plugins": {
+            "@release-it/conventional-changelog": {
+                "preset": {
+                    "name": "angular",
+                    "types": [
+                        {
+                            "type": "feat",
+                            "section": "Features"
+                        },
+                        {
+                            "type": "fix",
+                            "section": "Bug Fixes"
+                        },
+                        {}
+                    ]
+                },
+                "infile": "CHANGELOG.md"
+            }
+        }
+    },
+    "react-native-builder-bob": {
+        "source": "src",
+        "output": "lib",
+        "targets": [
+            [
+                "commonjs",
+                {
+                    "configFile": "./babel.config.js"
+                }
+            ],
+            "module",
+            [
+                "typescript",
+                {
+                    "project": "tsconfig.build.json"
+                }
+            ]
+        ]
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    }
+}

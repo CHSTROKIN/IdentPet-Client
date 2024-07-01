@@ -1,0 +1,1 @@
+{"version":3,"file":"createDeleteQuery.d.ts","sourceRoot":"","sources":["../../../../src/store/sqlite-utils/createDeleteQuery.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AACxC,OAAO,KAAK,EAAE,eAAe,EAAE,gBAAgB,EAAE,gBAAgB,EAAE,MAAM,UAAU,CAAC;AAEpF;;;;;;;;GAQG;AAEH,eAAO,MAAM,iBAAiB,qIAG3B,eAIF,CAAC"}
